@@ -43,7 +43,7 @@ Estos archivos fueron analizados con un ETL básico vía PowerBI, siendo entrega
 - [victimas.csv](Notebooks/datasets/ETL/victimas.csv)
 - [hechos.csv](Notebooks/datasets/ETL/hechos.csv)
 
-El trabajo de preparación se realizó en el notebook [assembler.ipynb]
+El trabajo de preparación se realizó en el notebook [assembler.ipynb](assembler.ipynb)
 
 
 <br />
