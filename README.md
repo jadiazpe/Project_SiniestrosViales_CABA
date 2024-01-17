@@ -75,7 +75,7 @@ Una vez finalizado este proceso fueron entregados para trabajo de preparación d
 - [victimas.csv](Notebooks/datasets/ETL/victimas.csv)
 - [hechos.csv](Notebooks/datasets/ETL/hechos.csv)
 
-Dicho trabajo de preparación y ensamblaje de la información, que permite continuar con el EDA, fue realizado en el notebook [assembler.ipynb](Notebooks/assembler.ipynb), el cual entregó como producto el archivo combinado (merged file); [victimas_hechos.csv](datasets/ETL/victimas_hechos.csv).
+Dicho trabajo de preparación y ensamblaje de la información, que permite continuar con el EDA, fue realizado en el notebook [assembler.ipynb](Notebooks/assembler.ipynb), el cual entregó como producto el archivo combinado (merged file); [victimas_hechos.csv](Notebooks/datasets/ETL/victimas_hechos.csv).
 
 <br />
 
