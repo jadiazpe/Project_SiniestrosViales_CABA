@@ -126,6 +126,8 @@ Al respecto el ejercicio nos muestra evidencia de una fuerte relación, de '0.81
 * El archivo que controla el panel de instrumentos fue elaborado en Power BI, y puede ser bajado directament desde el siguiente vínculo:
 [SiniestrosViales_dashboard.pbix](Dashboards/SiniestrosViales_dashboard.pbix)
 
+![presentacion.png](https://github.com/jadiazpe/Project_SiniestrosViales_CABA/raw/main/images/presentacion.png)
+
 <br />
 <br />
 
