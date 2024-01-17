@@ -137,7 +137,7 @@ Al respecto el ejercicio nos muestra evidencia de una fuerte relación, de '0.81
 **[[/Dashboards]](Dashboards/):** Directorio que almacena los archivos Power BI.
 <br />
 
-**[[/Notebooks/datasets/ETL]](**[[/Notebooks/datasets/ETL/):** Directorio que almacena los archivos CSV usados par los trabajos ETL, EDA y alimentación de dashboards. 
+**[[/Notebooks/datasets/ETL]](/Notebooks/datasets/ETL/):** Directorio que almacena los archivos CSV usados para los trabajos ETL, EDA y de alimentación de dashboards. 
 <br />
 
 **[[/Notebooks/datasets/source]](/Notebooks/datasets/source):** Directorio que almacena los archivos fuentes primarios que soportan el proyecto.
