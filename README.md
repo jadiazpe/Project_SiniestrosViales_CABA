@@ -35,13 +35,13 @@ El Observatorio de Movilidad y Seguridad Vial (OMSV), del Gobierno de la Ciudad 
 ### I.1 Extraction, Transformation and Load (ETL) <br />
 
 Fueron considerados tres (3) archivos, en formato excel, como fuentes primarias de información:
-- [homicidios.xlsx](Notebooks/Datasets/source)
-- [comunas.xlsx](Notebooks/Datasets/source)
-- [pob_caba.xlsx](Notebooks/Datasets/source)
+- [homicidios.xlsx](Notebooks/datasets/source)
+- [comunas.xlsx](Notebooks/datasets/source)
+- [pob_caba.xlsx](Notebooks/datasets/source)
 
 Estos archivos fueron analizados con un ETL básico vía PowerBI, siendo entregados para trabajo de preparación de datos, dos (2) archivos CSV:
-- [victimas.csv](Notebooks/Datasets/ETL)
-- [hechos.csv](Notebooks/Datasets/ETL)
+- [victimas.csv](Notebooks/datasets/ETL/victimas.csv)
+- [hechos.csv](Notebooks/datasets/ETL/hechos.csv)
 
 El trabajo de preparación se realizó en el notebook [assembler.ipynb]
 
