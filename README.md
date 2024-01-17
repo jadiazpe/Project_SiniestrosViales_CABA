@@ -143,5 +143,5 @@ Al respecto el ejercicio nos muestra evidencia de una fuerte relación, de '0.81
 **[[/Notebooks/datasets/source]](/Notebooks/datasets/source):** Directorio que almacena los archivos fuentes primarios que soportan el proyecto.
 <br />
 
-**[[/images]](assets/):** Directorio que almacena todas las imágenes que ilustran la información del repositorio.<br />
+**[[/images]](/images):** Directorio que almacena todas las imágenes que ilustran la información del repositorio.<br />
 
