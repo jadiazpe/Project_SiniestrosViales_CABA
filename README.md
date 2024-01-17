@@ -18,7 +18,7 @@ En Argentina, cada año mueren cerca de 4.000 personas en siniestros viales. Aun
 El Observatorio de Movilidad y Seguridad Vial (OMSV), del Gobierno de la Ciudad Autónoma de Buenos Aires, nos solicita la elaboración de un proyecto de "anális de datos", con el fin de generar información que le permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales de los siniestros viales. Para tal fin, nos dejan a disposición un dataset que contiene información sobre los siniestros viales registrados en la Ciudad de Buenos Aires durante el periodo 2016-2021.
 
 
-### Objectivos
+### Objetivos
 - A. Llevar a cabo un análisis básico de ETL
 
 - B. Desarrollar un análisis EDA robusto
